@@ -1,0 +1,24 @@
+
+Tagit is a digital banking solutions provider since 2004 and it is based out of Singapore with offices in India, and  Philippines. Tagit's banking solutions include :-
+          
+         ---->Retail banking(Retail Banking enables the banks to deliver a personalized digital banking services across multiple channels like mobile, website and manymore)
+
+	----> Digital Onboarding.(Digital Onboarding enables banks to automate the entire customer onboarding process digitally using biometrics, capturing the data from id proofs automatically and by validating the id proof by using hologram, and by other technologies involving AI and ML )
+
+	 ---->corperate banking 
+
+	
+
+TagIt has their own product known as, Mobeix
+
+	----> This Mobeix platform provides a set of developemt tooling and frameworks to accelerate the development of our banking products.
+
+	----> The application developed using this Mobeix platform is Very secured. it provides both security to our application and for our data.
+
+	----> This mobeix platform provides personalized notication supports like push notification, sms and email support.
+
+And finally Tagit provides their services to various clients across Asia and some of their key clients are AXIS BANK, CITI BANK AND DBS.
+
+Mr. Sandeep Bagaria
+Chief Executive Officer
+
